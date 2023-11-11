@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546290054218",
+    "project_id": "city-laundry-application",
+    "storage_bucket": "city-laundry-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546290054218:android:1827cfd983debac34ea2b3",
+        "android_client_info": {
+          "package_name": "com.example.citylaundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdxAn9ie-fdfL1ZjsmzZLhtnwdO5ywAR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

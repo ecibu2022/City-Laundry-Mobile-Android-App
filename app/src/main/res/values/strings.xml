@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CityLaundry</string>
+    <string name="title">City Laundry</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register Here</string>
+    <string name="reg">Register</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="registered">Already Registered, Login</string>
+    <string name="fname">FirstName</string>
+    <string name="lname">LastName</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone NO</string>
+    <string name="address">Address</string>
+    <string name="next">Next of Kin</string>
+    <string name="no">User NO</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="item">Item Name</string>
+    <string name="services">Services</string>
+    <string name="washing">Washing</string>
+    <string name="dry">Dry cleaning</string>
+    <string name="iron">Ironing</string>
+    <string name="save">Save</string>
+    <string name="reset">Password reset link will be sent to this email</string>
+    <string name="change">Reset Password</string>
+    <string name="msg">WELCOME TO OUR LAUNDRY SERVICES</string>
+    <string name="hy">HYGIENE IS OUR PRIORITY</string>
+    <string name="what_we_do">Our Services</string>
+    <string name="update">Edit Profile</string>
+    <string name="name">Fullname</string>
+    <string name="profile_picture">Profile Picture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
